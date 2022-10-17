@@ -1,0 +1,48 @@
+
+.container {
+    position: relative;
+    color: white;
+}
+
+.container img {
+    width: 50%;
+    margin: 10px 25% 10px 25%;
+}
+
+.centro {
+    position: absolute;
+    margin: 0 auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    font-size: 5em;
+}
+
+.textual {
+    width: 40%;
+    margin-left: 30%;
+}
+
+.textual p {
+    text-align: justify;
+}
+
+.textual img {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.textual hr {
+    margin-bottom: 0px;
+}
+
+.textual h3 {
+    margin-bottom: 0px;
+}
+
+ul {
+    display: inline;
+    list-style: none;
+}
